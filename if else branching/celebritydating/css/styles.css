@@ -1,0 +1,12 @@
+.picture {
+  display: none;
+  width: 300px;
+}
+
+img {
+  width: 100%;
+}
+
+#result {
+  display: none;
+}
